@@ -1,4 +1,7 @@
 # From Reddit to Discord
+
+[![BCH compliance](https://bettercodehub.com/edge/badge/o-shabashov/fromRedditToDiscord?branch=master)](https://bettercodehub.com/)
+
 Grab images (25 by default) from your Reddit account frontpage and post it to Discord channel.
 
 Using OAuth Reddit and Discord Bot.
