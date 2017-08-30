@@ -22,7 +22,6 @@ _testmain.go
 *.test
 *.prof
 .idea/
-glide.lock
 vendor/
 
 env.env
