@@ -1,0 +1,47 @@
+hash: 61fb2798cdc021712baede3ac32200ff01b97af70dd1c110a424db849533548d
+updated: 2017-08-30T11:02:12.53985306+07:00
+imports:
+- name: github.com/beefsack/go-rate
+  version: de575b104f4218f4aebdc95ba56f61f38d0dad86
+- name: github.com/bwmarrin/discordgo
+  version: d420e28024ad527390b43aa7f64e029083e11989
+- name: github.com/golang/protobuf
+  version: ab9f9a6dab164b7d1246e0e688b0ab7b94d8553e
+  subpackages:
+  - proto
+- name: github.com/google/go-querystring
+  version: 53e6ce116135b80d037921a7fdd5138cf32d7a8a
+  subpackages:
+  - query
+- name: github.com/gorilla/websocket
+  version: a69d9f6de432e2c6b296a947d8a5ee88f68522cf
+- name: github.com/joho/godotenv
+  version: c9360df4d16dc0e391ea2f28da2d31a9ede2e26f
+- name: github.com/jzelinskie/geddit
+  version: 45ce9276f237de3e26c16a1d129171a187b32a0a
+- name: golang.org/x/crypto
+  version: 81e90905daefcd6fd217b62423c0908922eadb30
+  subpackages:
+  - nacl/secretbox
+  - poly1305
+  - salsa20/salsa
+- name: golang.org/x/net
+  version: 66aacef3dd8a676686c7ae3716979581e8b03c47
+  subpackages:
+  - context
+  - context/ctxhttp
+- name: golang.org/x/oauth2
+  version: 9a379c6b3e95a790ffc43293c2a78dee0d7b6e20
+  subpackages:
+  - internal
+- name: google.golang.org/appengine
+  version: d9a072cfa7b9736e44311ef77b3e09d804bfa599
+  subpackages:
+  - internal
+  - internal/base
+  - internal/datastore
+  - internal/log
+  - internal/remote_api
+  - internal/urlfetch
+  - urlfetch
+testImports: []
