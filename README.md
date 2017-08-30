@@ -8,7 +8,7 @@ Using OAuth Reddit and Discord Bot.
 
 ## Install dependencies
 ```shell
-glide up
+glide install
 ```
 
 ## Edit .env file
