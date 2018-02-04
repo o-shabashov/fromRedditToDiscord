@@ -1,6 +1,6 @@
 # From Reddit to Discord
 
-[![BCH compliance](https://bettercodehub.com/edge/badge/o-shabashov/fromRedditToDiscord?branch=master)](https://bettercodehub.com/)
+[![BCH compliance](https://bettercodehub.com/edge/badge/o-shabashov/fromRedditToDiscord?branch=master)](https://bettercodehub.com/) [![Build Status](https://travis-ci.org/o-shabashov/reddit-to-discord.svg?branch=master)](https://travis-ci.org/o-shabashov/reddit-to-discord)
 
 Grab images (25 by default) from your Reddit account frontpage and post it to Discord channel.
 

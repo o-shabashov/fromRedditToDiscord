@@ -1,4 +1,4 @@
-package: github.com/o-shabashov/fromRedditToDiscord
+package: github.com/o-shabashov/reddit-to-discord
 import:
 - package: github.com/jzelinskie/geddit
 - package: github.com/bwmarrin/discordgo

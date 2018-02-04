@@ -1,12 +1,12 @@
 hash: 61fb2798cdc021712baede3ac32200ff01b97af70dd1c110a424db849533548d
-updated: 2017-08-30T11:02:12.53985306+07:00
+updated: 2018-01-30T17:16:25.594366+07:00
 imports:
 - name: github.com/beefsack/go-rate
   version: de575b104f4218f4aebdc95ba56f61f38d0dad86
 - name: github.com/bwmarrin/discordgo
-  version: d420e28024ad527390b43aa7f64e029083e11989
+  version: 4a33b9bc7c56cfdb9bb244e33e83cb3941fe2bdc
 - name: github.com/golang/protobuf
-  version: ab9f9a6dab164b7d1246e0e688b0ab7b94d8553e
+  version: 925541529c1fa6821df4e44ce2723319eb2be768
   subpackages:
   - proto
 - name: github.com/google/go-querystring
@@ -14,28 +14,28 @@ imports:
   subpackages:
   - query
 - name: github.com/gorilla/websocket
-  version: a69d9f6de432e2c6b296a947d8a5ee88f68522cf
+  version: 91f589db023d66e4aba7112d44cc0d2fb091c553
 - name: github.com/joho/godotenv
-  version: c9360df4d16dc0e391ea2f28da2d31a9ede2e26f
+  version: 9d9ddadf44b4c17c42bafdc530ddeee1927c067d
 - name: github.com/jzelinskie/geddit
-  version: 45ce9276f237de3e26c16a1d129171a187b32a0a
+  version: f75101e39ffed7ec9596d6929a8d85bb86223339
 - name: golang.org/x/crypto
-  version: 81e90905daefcd6fd217b62423c0908922eadb30
+  version: 1875d0a70c90e57f11972aefd42276df65e895b9
   subpackages:
   - nacl/secretbox
   - poly1305
   - salsa20/salsa
 - name: golang.org/x/net
-  version: 66aacef3dd8a676686c7ae3716979581e8b03c47
+  version: 0ed95abb35c445290478a5348a7b38bb154135fd
   subpackages:
   - context
   - context/ctxhttp
 - name: golang.org/x/oauth2
-  version: 9a379c6b3e95a790ffc43293c2a78dee0d7b6e20
+  version: a032972e28060ca4f5644acffae3dfc268cc09db
   subpackages:
   - internal
 - name: google.golang.org/appengine
-  version: d9a072cfa7b9736e44311ef77b3e09d804bfa599
+  version: 5bee14b453b4c71be47ec1781b0fa61c2ea182db
   subpackages:
   - internal
   - internal/base
