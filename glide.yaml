@@ -1,7 +1,0 @@
-package: github.com/o-shabashov/reddit-to-discord
-import:
-- package: github.com/jzelinskie/geddit
-- package: github.com/bwmarrin/discordgo
-- package: github.com/gorilla/websocket
-- package: golang.org/x/crypto/nacl/secretbox
-- package: github.com/joho/godotenv
